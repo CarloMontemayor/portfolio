@@ -18,8 +18,8 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "Github", href: "https://github.com/CarloMontemayor" },
     { text: "GitLab", href: "https://gitlab.com/carlomontemayor01" },
   ],
-  socialImage: "/zen-og.png",
-  canonicalURL: "https://astro-zen.vercel.app",
+  socialImage: "/carlo-small.png",
+  canonicalURL: "https://carlo-montemayor.vercel.app/",
 };
 
 export const SITE_CONTENT: SiteContent = {
@@ -113,7 +113,7 @@ export const SITE_CONTENT: SiteContent = {
       linkPreview: "/",
       linkSource: "/",
       image: "/no_image_available.jpg",
-    },    
+    }
   ],
   about: {
     description: `
