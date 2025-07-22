@@ -54,7 +54,8 @@ export const SITE_CONTENT: SiteContent = {
       summary: [
         "Identifying technical challenges and implementing innovative solutions.",
         "Reviewing code for quality, debugging issues, and optimizing performance.",
-        "Design and build cloud solutions, including applications and services. Set up CI/CD pipelines.",
+        "Design and build cloud solutions, including applications and services.",
+        "Set up CI/CD pipelines.",
         "Integrated third-party APIs and Libraries.",
       ],
     },
