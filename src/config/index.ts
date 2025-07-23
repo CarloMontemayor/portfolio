@@ -73,27 +73,6 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "WorkFlow",
-      summary: "A Client Portal Software",
-      linkPreview: "/",
-      linkSource: "/",
-      image: "/no_image_available.jpg",
-    },
-    {
-      name: "Estate Plan",
-      summary: "An Estate Plan Management Software",
-      linkPreview: "/",
-      linkSource: "/",
-      image: "/no_image_available.jpg",
-    },
-    {
-      name: "Derps",
-      summary: "A Government HRIS and Payroll Software",
-      linkPreview: "/",
-      linkSource: "/",
-      image: "/derps-1.webp",
-    },
-    {
       name: "DRR",
       summary: "A Property Management Software",
       linkPreview: "/",
@@ -106,6 +85,27 @@ export const SITE_CONTENT: SiteContent = {
       linkPreview: "/",
       linkSource: "https://hurey.ph",
       image: "/hurey.png",
+    },
+     {
+      name: "Derps",
+      summary: "A Government HRIS and Payroll Software",
+      linkPreview: "/",
+      linkSource: "/",
+      image: "/derps-1.webp",
+    },
+    {
+      name: "WorkFlow",
+      summary: "A Client Portal Software",
+      linkPreview: "/",
+      linkSource: "/",
+      image: "/no_image_available.jpg",
+    },
+    {
+      name: "Estate Plan",
+      summary: "An Estate Plan Management Software",
+      linkPreview: "/",
+      linkSource: "/",
+      image: "/no_image_available.jpg",
     },
     {
       name: "GoLegal",
